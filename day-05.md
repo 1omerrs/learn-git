@@ -1,1 +1,1 @@
-gun-5 dali
+gun-5 satiri
